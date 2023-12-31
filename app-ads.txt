@@ -1,6 +1,6 @@
 google.com, pub-4170722196946519, DIRECT, f08c47fec0942fa0
 
-#Updated 7th October 2023
+#Updated 3rd November 2023
 #Appodeal
 appodeal.com, 35294, DIRECT
 #BidMachine
@@ -16,8 +16,10 @@ facebook.com,Business_ID,RESELLER,c3e20eee3f780d68
 
 #Resellers
 152media.info,152M5,RESELLER
+9dotsmedia.com,122262,RESELLER,45ff185b4c4e857d
 acexchange.co.kr,1081983882,RESELLER
 acexchange.co.kr,1416775282,RESELLER
+acexchange.co.kr,1562884725,RESELLER
 adapex.io,s1694,RESELLER
 adapex.io,s1704,RESELLER
 adapex.io,s1809,RESELLER
@@ -27,8 +29,9 @@ adbility-media.com,187,RESELLER
 adcolony.com,0a0f72cd66122f31,RESELLER,1ad675c9de6b5176
 adcolony.com,197af3936679d34e,RESELLER,1ad675c9de6b5176
 adcolony.com,1efc6603710003ea,RESELLER,1ad675c9de6b5176
-adcolony.com,29b7f4a14dc689eb,RESELLER,1ad675c9de6b5176
+adcolony.com,29b7f4a14dc689eb,RESELLER
 adcolony.com,382d79cd1387e603,RESELLER,1ad675c9de6b5176
+adcolony.com,3dcf9f51638afe2c,RESELLER,1ad675c9de6b5176
 adcolony.com,496220845654deec,RESELLER,1ad675c9de6b5176
 adcolony.com,c7b2bb9f944ae42a,RESELLER,1ad675c9de6b5176
 adcolony.com,fcaa373cac67c9f927aa914013b8346e,RESELLER,1ad675c9de6b5176
@@ -74,6 +77,7 @@ alpineinteractivegroup.com,8113111129,RESELLER
 aniview.com,603f65a2e291680ef30af9c7,RESELLER,78b21b97965ec3f8
 anyclip.com,0011r00001kaHtoAAE,RESELLER
 app-stock.com,256917,RESELLER
+app-stock.com,315417,RESELLER,ed8c126ea5971415
 app-stock.com,343264,RESELLER
 app-stock.com,358747,RESELLER
 appads.in,105536,RESELLER
@@ -92,7 +96,6 @@ appnexus.com,12964,RESELLER,f5ab79cb980f11d1
 appnexus.com,12976,RESELLER,f5ab79cb980f11d1
 appnexus.com,13293,RESELLER,f5ab79cb980f11d1
 appnexus.com,13297,RESELLER,f5ab79cb980f11d1
-appnexus.com,1356,RESELLER,f5ab79cb980f11d1
 appnexus.com,14080,RESELLER,f5ab79cb980f11d1
 appnexus.com,14423,RESELLER,f5ab79cb980f11d1
 appnexus.com,15349,RESELLER,f5ab79cb980f11d1
@@ -109,6 +112,7 @@ appnexus.com,9393,RESELLER,f5ab79cb980f11d1
 aps.amazon.com,d4004b5f-4fb6-4be2-82ae-0e36b8f52c12,RESELLER
 aralego.com,par-47BDB68D72764E2AFED767ED47DEDDA4,RESELLER
 aralego.com,par-627DA26297666D280EA8323E33ABAED7,RESELLER
+aralego.com,par-9A2627866DA4BBE4F4AA4A67A3DDE686,RESELLER
 aralego.com,par-9A292743382DDA3AC4B7964D293EBE44,RESELLER
 aralego.com,par-AA7B236BA32DD484C838E249362437B8,RESELLER
 aralego.com,par-BE7E29B3B48DE66BC7DDDA24E6267E29,RESELLER
@@ -121,6 +125,7 @@ auxoads.com,90218,RESELLER
 auxoads.com,90219,RESELLER
 axonix.com,55724,RESELLER,bc385f2b4a87b721
 axonix.com,56222,RESELLER,bc385f2b4a87b721
+axonix.com,56716,RESELLER,bc385f2b4a87b721
 axonix.com,57264,RESELLER,bc385f2b4a87b721
 axonix.com,57311,RESELLER,bc385f2b4a87b721
 axonix.com,57716,RESELLER,bc385f2b4a87b721
@@ -133,12 +138,12 @@ betweendigital.com,43871,RESELLER
 betweendigital.com,44088,RESELLER
 betweendigital.com,44098,RESELLER
 betweendigital.com,44917,RESELLER
+bigo.sg,1203,RESELLER
 blis.com,137,RESELLER,61453ae19a4b73f4
 blis.com,33,RESELLER,61453ae19a4b73f4
 bold-win.com,542,RESELLER,71746737d0bab951
 brightcom.com,20444,RESELLER
 brightcom.com,29559,RESELLER
-cazhype.com,efe937780e95574250dabe07151bdc2332799,RESELLER
 chartboost.com,5d55f702facb6743686c50cc,RESELLER
 connectad.io,197,RESELLER,85ac85a30c93b3e5
 consumable.com,2001409,RESELLER,aefcd3d2f45b5070
@@ -189,6 +194,7 @@ criteo.com,B-057955,RESELLER,9fac4a4a87c2a44f
 criteo.com,B-063105,RESELLER,9fac4a4a87c2a44f
 criteo.com,B-064322,RESELLER,9fac4a4a87c2a44f
 criteo.com,B-068074,RESELLER,9fac4a4a87c2a44f
+digitalturbine.com,221376,RESELLER
 dynadmic.com,rh4thm0n33,RESELLER
 e-planning.net,081dcb996d2ccc1e,RESELLER,c1ba615865ed87b2
 e-planning.net,4a9ebbc3341a55df,RESELLER,c1ba615865ed87b2
@@ -214,6 +220,7 @@ freewheel.tv,1569302,RESELLER,74e8e47458f74754
 freewheel.tv,1569311,RESELLER,74e8e47458f74754
 freewheel.tv,1585681,RESELLER,74e8e47458f74754
 fyber.com,219733,RESELLER
+fyber.com,221376,RESELLER
 gamaigroup.com,320205,RESELLER
 gamoshi.io,267-b2713,RESELLER
 gamoshi.io,267-b4627,RESELLER
@@ -264,6 +271,7 @@ google.com,pub-9202259069253639,RESELLER,f08c47fec0942fa0
 google.com,pub-9329149277210275,RESELLER,f08c47fec0942fa0
 google.com,pub-9469244224896360,RESELLER,f08c47fec0942fa0
 google.com,pub-9685734445476814,RESELLER,f08c47fec0942fa0
+growintech.co,102275,RESELLER
 growintech.co,104673,RESELLER
 growintech.co,2723d092b63885e0d7c260cc007e8b9d9364,RESELLER
 hyperad.tech,20,RESELLER
@@ -277,7 +285,6 @@ imds.tv,82557,RESELLER,ae6c32151e71f19d
 improvedigital.com,1114,RESELLER
 improvedigital.com,1210,RESELLER
 improvedigital.com,1221,RESELLER
-improvedigital.com,1331,RESELLER
 improvedigital.com,1341,RESELLER
 improvedigital.com,1366,RESELLER
 improvedigital.com,1408,RESELLER
@@ -298,6 +305,7 @@ improvedigital.com,2176,RESELLER
 improvedigital.com,2177,RESELLER
 improvedigital.com,2178,RESELLER
 improvedigital.com,2180,RESELLER
+improvedigital.com,2276,RESELLER
 improvedigital.com,2299,RESELLER
 improvedigital.com,2316,RESELLER
 indexexchange.com,183920,RESELLER,50b1c356f2c5c8fc
@@ -342,6 +350,7 @@ inmobi.com,f685b4a4ee9e4861a0601f73215b3c4b,RESELLER,83e75a7ae333ca9d
 inmobi.com,fe4db13744124582a6a2b18964560ce7,RESELLER,83e75a7ae333ca9d
 instal.com,5a59277b-91e8-4b5c-a4b5-ee9a7a6c0644,RESELLER
 iqzone.com,IQ39,RESELLER
+iqzone.com,IQ87,RESELLER
 iqzone.com,IQ97,RESELLER
 ironsrc.com,186063,RESELLER,79929e88b2ba73bc
 ironsrc.com,220701,RESELLER,79929e88b2ba73bc
@@ -349,6 +358,7 @@ ironsrc.com,228853,RESELLER,79929e88b2ba73bc
 ironsrc.com,231453,RESELLER,79929e88b2ba73bc
 ironsrc.com,245431,RESELLER,79929e88b2ba73bc
 ironsrc.com,402176,RESELLER,79929e88b2ba73bc
+jio.com,1547219295,RESELLER
 keenkale.com,1957,RESELLER
 keenkale.com,2221,RESELLER
 keenkale.com,8987,RESELLER
@@ -376,10 +386,10 @@ loopme.com,11561,RESELLER,6c8d5f95897a5a3b
 loopme.com,2896,RESELLER,6c8d5f95897a5a3b
 loopme.com,5679,RESELLER,6c8d5f95897a5a3b
 loopme.com,9621,RESELLER,6c8d5f95897a5a3b
-lunamedia.io,32e73ac5f2eb430dacd4e3773e5fdc8e,RESELLER,524ecb396915caaf
-lunamedia.io,5ad539e09ec9485cab7b81d68a5bd757,RESELLER,524ecb396915caaf
 lunamedia.io,95ed51edc1cb499baaf3476fcb6fa463,RESELLER,524ecb396915caaf
+lunamedia.io,b82743ba2ddf4bcaab3d1d4f91b1330e,RESELLER,524ecb396915caaf
 lunamedia.io,bfacf5e017bb11edb41173b0ca2c748c,RESELLER,524ecb396915caaf
+markappmedia.site,587286,RESELLER,1ddf21e4cc2e32a1
 mars.media,1010421,RESELLER,8624339f102fb076
 mars.media,1010422,RESELLER,8624339f102fb076
 mars.media,1010463,RESELLER,8624339f102fb076
@@ -400,8 +410,6 @@ mintegral.com,10030,RESELLER
 mintegral.com,10038,RESELLER
 mintegral.com,11154,RESELLER
 mobupps.com,c74d97b01eae257e44aa9d5bade97baf7726,RESELLER
-nobid.io,22476660912,RESELLER
-nobid.io,22501800598,RESELLER
 nobid.io,22575233870,RESELLER
 notsy.io,4a4dfd54-99f3-4c03-b706-c10418e59114,RESELLER
 olaex.biz,100039,RESELLER
@@ -411,7 +419,6 @@ onetag.com,59d216e971852f2,RESELLER
 onetag.com,5d1628750185ace,RESELLER
 onetag.com,5d49f482552c9b6,RESELLER
 onetag.com,6d9d434caf08ff8,RESELLER
-onetag.com,73720b89bbda622,RESELLER
 openx.com,537149888,RESELLER,6a698e2ec38604c6
 openx.com,537152826,RESELLER,6a698e2ec38604c6
 openx.com,537153564,RESELLER,6a698e2ec38604c6
@@ -439,14 +446,15 @@ opera.com,pub5449961587776,RESELLER,55a0c5fd61378de3
 opera.com,pub5959307917824,RESELLER,55a0c5fd61378de3
 opera.com,pub6148735850944,RESELLER,55a0c5fd61378de3
 opera.com,pub6381284707712,RESELLER,55a0c5fd61378de3
-opera.com,pub6390586105984,RESELLER,55a0c5fd61378de3
 opera.com,pub6650235485952,RESELLER,55a0c5fd61378de3
 opera.com,pub6794361378752,RESELLER,55a0c5fd61378de3
 opera.com,pub6843437470464,RESELLER,55a0c5fd61378de3
+opera.com,pub6871903319744,RESELLER,55a0c5fd61378de3
 opera.com,pub7507776842240,RESELLER,55a0c5fd61378de3
 opera.com,pub7839419107776,RESELLER,55a0c5fd61378de3
 opera.com,pub8779257021376,RESELLER,55a0c5fd61378de3
 opera.com,pub8862575251776,RESELLER,55a0c5fd61378de3
+pangleglobal.com,67894,RESELLER
 pokkt.com,5536,RESELLER,c45702d9311e25fd
 pokkt.com,5886,RESELLER,c45702d9311e25fd
 pokkt.com,7606,RESELLER,c45702d9311e25fd
@@ -459,6 +467,7 @@ pubmatic.com,156451,RESELLER,5d62403b186f2ace
 pubmatic.com,156494,RESELLER,5d62403b186f2ace
 pubmatic.com,156520,RESELLER,5d62403b186f2ace
 pubmatic.com,156631,RESELLER,5d62403b186f2ace
+pubmatic.com,156931,RESELLER,5d62403b186f2ace
 pubmatic.com,157384,RESELLER,5d62403b186f2ace
 pubmatic.com,157558,RESELLER,5d62403b186f2ace
 pubmatic.com,157800,RESELLER,5d62403b186f2ace
@@ -469,6 +478,7 @@ pubmatic.com,158154,RESELLER,5d62403b186f2ace
 pubmatic.com,158362,RESELLER,5d62403b186f2ace
 pubmatic.com,158565,RESELLER,5d62403b186f2ace
 pubmatic.com,158753,RESELLER,5d62403b186f2ace
+pubmatic.com,159035,RESELLER,5d62403b186f2ace
 pubmatic.com,159087,RESELLER,5d62403b186f2ace
 pubmatic.com,159277,RESELLER,5d62403b186f2ace
 pubmatic.com,159351,RESELLER,5d62403b186f2ace
@@ -511,7 +521,6 @@ pubmatic.com,163517,RESELLER,5d62403b186f2ace
 pubnative.net,1003601,RESELLER,d641df8625486a7b
 pubnative.net,1006576,RESELLER,d641df8625486a7b
 pubnative.net,1006856,RESELLER,d641df8625486a7b
-pubnative.net,1006936,RESELLER,d641df8625486a7b
 pubnative.net,1006955,RESELLER,d641df8625486a7b
 pubnative.net,1007007,RESELLER,d641df8625486a7b
 pubnative.net,1007040,RESELLER,d641df8625486a7b
@@ -570,7 +579,6 @@ rubiconproject.com,24538,RESELLER,0bfd66d529a55807
 rubiconproject.com,24752,RESELLER,0bfd66d529a55807
 rubiconproject.com,24864,RESELLER,0bfd66d529a55807
 rubiconproject.com,25060,RESELLER,0bfd66d529a55807
-rubiconproject.com,25688,RESELLER,0bfd66d529a55807
 saharmedia.net,1683571,RESELLER
 saharmedia.net,1683573,RESELLER
 saharmedia.net,1683574,RESELLER
@@ -582,12 +590,12 @@ saharmedia.net,1683597,RESELLER
 saharmedia.net,1683858,RESELLER
 saharmedia.net,4681371,RESELLER
 saharmedia.net,4681373,RESELLER
+selectmedia.asia,645b5a31e427dc0a87094fc4,RESELLER,e365c871a27c655d
 sharethrough.com,23830661,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,3blZyYks,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,6qlnf8SY,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,a5d8c727,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,K5WDGAsP,RESELLER,d53b998a7bd4ecd2
-sharethrough.com,LNtcDgIM,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,OAW69Fon,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,pLL9cLon,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,UHEPsr7T,RESELLER,d53b998a7bd4ecd2
@@ -653,17 +661,15 @@ sonobi.com,71169bd4a5,RESELLER,d1a215d9eb5aee9e
 sonobi.com,7b37f8ccbc,RESELLER,d1a215d9eb5aee9e
 sonobi.com,8efb591506,RESELLER,d1a215d9eb5aee9e
 sonobi.com,ac6f1a9ded,RESELLER,d1a215d9eb5aee9e
-sonobi.com,cc3858f35e,RESELLER,d1a215d9eb5aee9e
 sonobi.com,eaec54c63f,RESELLER,d1a215d9eb5aee9e
 spotx.tv,117872,RESELLER,7842df1d2fe2db34
 spotx.tv,149886,RESELLER,7842df1d2fe2db34
 spotx.tv,71426,RESELLER,7842df1d2fe2db34
 spotxchange.com,307720,RESELLER,7842df1d2fe2db34
-ssp.e-volution.ai,AJxF6R111a9M6CaTvK,RESELLER
 ssp.e-volution.ai,AJxF6R189a9M6CaTvK,RESELLER
+ssp.e-volution.ai,AJxF6R378a9M6CaTvK,RESELLER
 ssp.e-volution.ai,AJxF6R396a9M6CaTvK,RESELLER
 start.io,ago,RESELLER
-start.io,inm,RESELLER
 streambidmedia.com,1783651,RESELLER
 streambidmedia.com,1783652,RESELLER
 streambidmedia.com,1783654,RESELLER
@@ -678,7 +684,6 @@ target.my.com,12723589,RESELLER
 targetspot.com,227,RESELLER,feb28ed826dcf532
 targetspot.com,297,RESELLER,feb28ed826dcf532
 thebrave.io,1234594,RESELLER,c25b2154543746ac
-thebrave.io,1234596,RESELLER,c25b2154543746ac
 thebrave.io,1234632,RESELLER,c25b2154543746ac
 thebrave.io,1234633,RESELLER,c25b2154543746ac
 thebrave.io,1234634,RESELLER,c25b2154543746ac
@@ -691,10 +696,8 @@ themediagrid.com,NG9STC,RESELLER,35d5010d7789b49d
 themediagrid.com,PLTXGE,RESELLER,35d5010d7789b49d
 themediagrid.com,Q1VB5D,RESELLER,35d5010d7789b49d
 themediagrid.com,Q3KY5N,RESELLER,35d5010d7789b49d
-themediagrid.com,R28I9J,RESELLER,35d5010d7789b49d
 themediagrid.com,SWH94X,RESELLER,35d5010d7789b49d
 tpmn.io,256,RESELLER
-tpmn.io,368,RESELLER
 tpmn.io,415,RESELLER
 tpmn.io,532,RESELLER
 triplelift.com,10223,RESELLER,6c33edb13117fd86
@@ -706,7 +709,6 @@ uis.mobfox.com,1750,RESELLER,5529a3d1f59865be
 undertone.com,4108,RESELLER
 unity.com,1004715,RESELLER,96cabb5fbdde37a7
 unrulymedia.com,831638248788941126,RESELLER
-unrulymedia.com.com,3218195319,RESELLER,89ff185a4c4e857c
 verve.com,14619,RESELLER,0c8f5958fc2d6270
 verve.com,15290,RESELLER,0c8f5958fc2d6270
 verve.com,15503,RESELLER,0c8f5958fc2d6270
@@ -716,7 +718,6 @@ video.unrulymedia.com,2564526802,RESELLER,6f752381ad5ec0e5
 video.unrulymedia.com,2613193077,RESELLER,6f752381ad5ec0e5
 video.unrulymedia.com,2979066401945419350,RESELLER,6f752381ad5ec0e5
 video.unrulymedia.com,3169196794,RESELLER,6f752381ad5ec0e5
-video.unrulymedia.com,3218195319,RESELLER,6f752381ad5ec0e5
 video.unrulymedia.com,3383599585,RESELLER,6f752381ad5ec0e5
 video.unrulymedia.com,3383599585,RESELLER,a670c89d4a324e47
 video.unrulymedia.com,3630748062,RESELLER,a670c89d4a324e47
@@ -725,7 +726,6 @@ video.unrulymedia.com,3664049593,RESELLER,6f752381ad5ec0e5
 video.unrulymedia.com,3704396951,RESELLER,6f752381ad5ec0e5
 video.unrulymedia.com,3880497124,RESELLER,6f752381ad5ec0e5
 video.unrulymedia.com,3881266972,RESELLER,6f752381ad5ec0e5
-video.unrulymedia.com,4173858586,RESELLER,6f752381ad5ec0e5
 video.unrulymedia.com,4270213217,RESELLER,6f752381ad5ec0e5
 video.unrulymedia.com,4631344382657206988,RESELLER,6f752381ad5ec0e5
 video.unrulymedia.com,5127265468568773826,RESELLER,6f752381ad5ec0e5
@@ -779,8 +779,12 @@ yahoo.com,59781,RESELLER,e1a5b5b6e3255540
 yahoo.com,59905,RESELLER,e1a5b5b6e3255540
 yahoo.com,59906,RESELLER,e1a5b5b6e3255540
 yahoo.com,60010,RESELLER,e1a5b5b6e3255540
+yandex.com,63904735,RESELLER
+yandex.com,94923424,RESELLER
 yandex.com,95746987,RESELLER
+yandex.com,97539269,RESELLER
 yeahmobi.com,113772,RESELLER
+yeahmobi.com,5135082,RESELLER
 yeahmobi.com,5135195,RESELLER
 yeahmobi.com,5135347,RESELLER
 yieldlab.net,2172218,RESELLER
